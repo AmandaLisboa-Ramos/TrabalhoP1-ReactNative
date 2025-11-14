@@ -28,9 +28,11 @@ O objetivo foi compreender a estrutura do React Native, organização de compone
 
 ### Tela 1 – Logo do Uber  
 Tela simples com a logo centralizada.
+![PaginaPrincipal](https://github.com/user-attachments/assets/b552b711-cd66-480f-bdfa-17b045192c57)
 
 ### Tela 2 – Opções  
 Tela principal contendo as opções iniciais simulando um menu de app.
+![PaginaOpcoes](https://github.com/user-attachments/assets/e27ac1a1-ddac-4667-83be-ee38ee6f45b8)
 
 ---
 

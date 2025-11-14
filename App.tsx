@@ -70,8 +70,7 @@ export default function OptionsScreen() {
 
       <View style={styles.footer}>
         <TouchableOpacity style={styles.footerItem}>
-          <Image source={home}
-          style={styles.footerIcon} />
+          <Image source={home} style={styles.footerIcon} />
           <Text style={styles.footerTexto}>Início</Text>
         </TouchableOpacity>
 
@@ -81,14 +80,12 @@ export default function OptionsScreen() {
         </TouchableOpacity>
 
         <TouchableOpacity style={styles.footerItem}>
-          <Image source={atividadeIcon} 
-          style={styles.footerIcon} />
+          <Image source={atividadeIcon} style={styles.footerIcon} />
           <Text style={styles.footerTexto}>Atividade</Text>
         </TouchableOpacity>
 
         <TouchableOpacity style={styles.footerItem}>
-          <Image source={usuarioIcon}
-    style={styles.footerIcon} />
+          <Image source={usuarioIcon} style={styles.footerIcon} />
           <Text style={styles.footerTexto}>Conta</Text>
         </TouchableOpacity>
       </View>
